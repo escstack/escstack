@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://www.escstack.site">
-    <img src="https://www.escstack.site/hero-background.jpg" width="100%" style="border-radius: 10px; object-fit: cover; height: 300px;" alt="EscStack Banner" />
+    <img src="https://www.escstack.site/opengraph-image.png" width="100%" style="border-radius: 10px; object-fit: cover; max-height: 400px;" alt="EscStack Software House Banner" />
   </a>
 
   <br />
