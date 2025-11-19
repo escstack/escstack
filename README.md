@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://www.escstack.site">
-    <img src="./escstack.jpg" width="50%" alt="EscStack - We Create The Future" />
+    <img src="./escstack.jpg" width="100%" alt="EscStack - We Create The Future" />
   </a>
 
   <br />
