@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://www.escstack.site">
-    <img src="https://www.escstack.site/opengraph-image.png" width="100%" style="border-radius: 10px; height: auto; display: block; margin: 0 auto; max-width: 100%;" alt="EscStack Software House Banner" />
+    <img src="https://www.escstack.site/opengraph-image.png" alt="EscStack Software House Banner" width="800" />
   </a>
 
   <br />
@@ -83,28 +83,28 @@ We are engineers, architects, and strategists building the future.
   <tr>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/ayaz-hussain-cs/">
-        <img src="https://www.escstack.site/ayaz.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Ayaz Hussain"/><br />
+        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/ayaz.png" width="100px" style="border-radius: 50%;" alt="Ayaz Hussain"/><br />
         <b>Ayaz Hussain</b>
       </a><br />
       Founder & CEO
     </td>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/rajput-rizwan/">
-        <img src="https://www.escstack.site/rizwan.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Rizwan Rajput"/><br />
+        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/rizwan.png" width="100px" style="border-radius: 50%;" alt="Rizwan Rajput"/><br />
         <b>Rizwan Rajput</b>
       </a><br />
       Co-Founder & CTO
     </td>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/muhammad-tayyab-bhutto/">
-        <img src="https://www.escstack.site/meer.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Tayyab Bhutto"/><br />
+        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/meer.png" width="100px" style="border-radius: 50%;" alt="Tayyab Bhutto"/><br />
         <b>Tayyab Bhutto</b>
       </a><br />
       Co-Founder & CPO
     </td>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/meer-khalil/">
-        <img src="https://www.escstack.site/khalil.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Meer Khalil"/><br />
+        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/khalil.png" width="100px" style="border-radius: 50%;" alt="Meer Khalil"/><br />
         <b>Meer Khalil</b>
       </a><br />
       Chief AI Officer
