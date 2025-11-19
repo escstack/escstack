@@ -1,45 +1,54 @@
 <div align="center">
   
   <a href="https://www.escstack.site">
-    <img src="https://www.escstack.site/opengraph-image.png" width="100%" height="100%" alt="EscStack Software House Banner" style="border-radius: 10px;" />
+    <img src="https://www.escstack.site/hero-background.jpg" width="100%" style="border-radius: 10px; object-fit: cover; height: 300px;" alt="EscStack Banner" />
   </a>
 
   <br />
+  <br />
 
-  <h1 style="font-size: 3rem; font-weight: 800;">We Create The Future</h1>
+  <h1 style="font-size: 3rem; font-weight: 900; letter-spacing: -1px;">We Create The Future</h1>
   
-  <p style="font-size: 1.2rem;">
+  <p style="font-size: 1.3rem; color: #555;">
     <strong>Global Software House & AI Innovation Lab</strong>
   </p>
   
-  <p>
+  <p align="center">
     <em>Building intelligent, scalable, and SOC2-ready software with Senior-Only Engineering Pods.</em>
   </p>
 
   <p>
     <a href="https://www.escstack.site">
-      <img src="https://img.shields.io/badge/Website-www.escstack.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/company/escstack">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@escstack.site">
-      <img src="https://img.shields.io/badge/Email-Hire_Us-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact%20Us-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🚀 Who We Are
+### 🚀 About EscStack
 
-**EscStack** is not just a dev shop; we are your technical partners. We specialize in transforming complex enterprise requirements into high-performance **Next.js** and **AI** solutions. 
+**EscStack** is a premier software engineering firm partnering with startups and enterprises to design, build, and scale world-class web, mobile, and AI products. 
 
-We operate with **Senior-Only Pods**, ensuring that your code is written by architects, not juniors.
+Unlike traditional agencies, we operate as a **technical partner**. We don't just ship features; we engineer business outcomes. Our team consists exclusively of senior engineers and architects who have built systems for millions of users.
 
-* 🌍 **Global Reach:** Serving clients in 15+ countries.
-* 🛡️ **Enterprise Security:** SOC2-ready pipelines & strict NDA protocols.
-* ⚡ **Outcome Focused:** We measure success by your KPIs, not just lines of code.
+> *"We believe technology should be a force for good, solving real-world problems and creating opportunities for everyone."*
+
+---
+
+### 💎 The EscStack Advantage
+
+Why do 50+ clients across 15 countries trust us?
+
+| 🛡️ **SOC2 Ready** | ⚡ **High Velocity** | 🧠 **AI Native** |
+| :--- | :--- | :--- |
+| Security is not an afterthought. We build with compliance-ready pipelines (OWASP/SOC2) from Day 1. | We use scalable monorepos and modern CI/CD to ship production code daily, not monthly. | We integrate LLMs, RAG pipelines, and intelligent automation into every product we build. |
 
 ---
 
@@ -57,9 +66,18 @@ We utilize a modern, type-safe, and cloud-native stack to ensure scalability.
 
 ---
 
+### 🔄 Our Process: From Idea to Impact
+
+1.  **🔭 Discovery & Strategy:** We clarify goals, risks, and success metrics.
+2.  **🎨 Design & Architecture:** We craft high-fidelity prototypes and select the right tech stack.
+3.  **💻 Agile Development:** Two-week sprints with demoable increments.
+4.  **🚀 Launch & Scale:** Automated rollouts, SRE monitoring, and growth support.
+
+---
+
 ### 🧠 Meet The Leadership
 
-Real experts behind the code. We believe in transparency and engineering excellence.
+We are engineers, architects, and strategists building the future.
 
 <table align="center" style="border: none;">
   <tr>
@@ -96,18 +114,9 @@ Real experts behind the code. We believe in transparency and engineering excelle
 
 ---
 
-### 💼 Services
-
-- **Web Application Engineering:** Scalable monorepos using Next.js 14+ and React Server Components.
-- **Mobile App Development:** Native-feel cross-platform apps using Flutter and React Native.
-- **AI & Data Systems:** Custom LLM integration, RAG pipelines, and MLOps on AWS/GCP.
-- **Cloud & DevOps:** Infrastructure as Code (IaC) with Terraform, Kubernetes, and CI/CD automation.
-
----
-
 <div align="center">
-  <h3>Ready to scale your product?</h3>
-  <p>Book a free discovery call with our Solution Architects.</p>
+  <h3>Ready to build something amazing?</h3>
+  <p>Let's discuss your roadmap and how our senior pods can accelerate your delivery.</p>
   
   <a href="https://www.escstack.site/contact">
     <img src="https://img.shields.io/badge/Book_Discovery_Call-Start_Project-2ea44f?style=for-the-badge&logo=google-calendar&logoColor=white" height="50" />
