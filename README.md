@@ -1,15 +1,14 @@
 <div align="center">
-  
+
   <a href="https://www.escstack.site">
-    <img src="https://www.escstack.site/opengraph-image.png" alt="EscStack Software House Banner" width="800" />
+    <img src="https://www.escstack.site/opengraph-image.png" width="100%" alt="EscStack - We Create The Future" />
   </a>
 
   <br />
-  <br />
 
-  <h1 style="font-size: 3rem; font-weight: 900; letter-spacing: -1px;">We Create The Future</h1>
+  <h1 style="font-size: 3rem; font-weight: 900; letter-spacing: -1px; margin-top: 0px;">We Create The Future</h1>
   
-  <p style="font-size: 1.3rem; color: #555;">
+  <p style="font-size: 1.2rem; color: #666; margin-bottom: 20px;">
     <strong>Global Software House & AI Innovation Lab</strong>
   </p>
   
@@ -19,24 +18,24 @@
 
   <p>
     <a href="https://www.escstack.site">
-      <img src="https://img.shields.io/badge/Website-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-Visit_Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://www.linkedin.com/company/escstack">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Us-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@escstack.site">
-      <img src="https://img.shields.io/badge/Email-Contact%20Us-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Hire_Us-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🚀 About EscStack
+### 🚀 Who We Are
 
-**EscStack** is a premier software engineering firm partnering with startups and enterprises to design, build, and scale world-class web, mobile, and AI products. 
+**EscStack** is a premier software engineering firm partnering with startups and enterprises to design, build, and scale world-class **Web**, **Mobile**, and **AI** products.
 
-Unlike traditional agencies, we operate as a **technical partner**. We don't just ship features; we engineer business outcomes. Our team consists exclusively of senior engineers and architects who have built systems for millions of users.
+We are not a traditional outsourcing agency. We operate as a **strategic technical partner**. We don't just write code; we engineer business outcomes. Our team consists exclusively of senior engineers, architects, and AI specialists who have built systems for millions of users.
 
 > *"We believe technology should be a force for good, solving real-world problems and creating opportunities for everyone."*
 
@@ -44,17 +43,17 @@ Unlike traditional agencies, we operate as a **technical partner**. We don't jus
 
 ### 💎 The EscStack Advantage
 
-Why do 50+ clients across 15 countries trust us?
+We bridge the gap between **Product Strategy** and **Engineering Excellence**.
 
 | 🛡️ **SOC2 Ready** | ⚡ **High Velocity** | 🧠 **AI Native** |
 | :--- | :--- | :--- |
-| Security is not an afterthought. We build with compliance-ready pipelines (OWASP/SOC2) from Day 1. | We use scalable monorepos and modern CI/CD to ship production code daily, not monthly. | We integrate LLMs, RAG pipelines, and intelligent automation into every product we build. |
+| Security is baked in. We build with compliance-ready pipelines (OWASP/SOC2) from Day 1 to protect your IP and data. | We leverage scalable monorepos, rigorous CI/CD, and battle-tested patterns to ship production code daily. | We don't just "use" AI; we build it. From LLM integration and RAG pipelines to intelligent automation. |
 
 ---
 
 ### 🛠️ Our Engineering Stack
 
-We utilize a modern, type-safe, and cloud-native stack to ensure scalability.
+We utilize a modern, type-safe, and cloud-native stack to ensure scalability and performance.
 
 | **Frontend & Mobile** | **Backend & AI** | **DevOps & Cloud** |
 | :--- | :--- | :--- |
@@ -68,10 +67,10 @@ We utilize a modern, type-safe, and cloud-native stack to ensure scalability.
 
 ### 🔄 Our Process: From Idea to Impact
 
-1.  **🔭 Discovery & Strategy:** We clarify goals, risks, and success metrics.
-2.  **🎨 Design & Architecture:** We craft high-fidelity prototypes and select the right tech stack.
-3.  **💻 Agile Development:** Two-week sprints with demoable increments.
-4.  **🚀 Launch & Scale:** Automated rollouts, SRE monitoring, and growth support.
+1.  **🔭 Discovery & Strategy:** We clarify goals, risks, and success metrics (KPIs) before writing a line of code.
+2.  **🎨 Design & Architecture:** We craft high-fidelity prototypes and select the right tech stack for long-term stability.
+3.  **💻 Agile Development:** We work in two-week sprints with demoable increments, ensuring full transparency.
+4.  **🚀 Launch & Scale:** Automated rollouts, SRE monitoring, and post-launch growth support.
 
 ---
 
@@ -83,28 +82,28 @@ We are engineers, architects, and strategists building the future.
   <tr>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/ayaz-hussain-cs/">
-        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/ayaz.png" width="100px" style="border-radius: 50%;" alt="Ayaz Hussain"/><br />
+        <img src="https://www.escstack.site/ayaz.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Ayaz Hussain"/><br />
         <b>Ayaz Hussain</b>
       </a><br />
       Founder & CEO
     </td>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/rajput-rizwan/">
-        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/rizwan.png" width="100px" style="border-radius: 50%;" alt="Rizwan Rajput"/><br />
+        <img src="https://www.escstack.site/rizwan.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Rizwan Rajput"/><br />
         <b>Rizwan Rajput</b>
       </a><br />
       Co-Founder & CTO
     </td>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/muhammad-tayyab-bhutto/">
-        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/meer.png" width="100px" style="border-radius: 50%;" alt="Tayyab Bhutto"/><br />
+        <img src="https://www.escstack.site/meer.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Tayyab Bhutto"/><br />
         <b>Tayyab Bhutto</b>
       </a><br />
       Co-Founder & CPO
     </td>
     <td align="center" width="200px">
       <a href="https://www.linkedin.com/in/meer-khalil/">
-        <img src="https://raw.githubusercontent.com/YOUR_ORG/escstack-assets/main/team-photos/khalil.png" width="100px" style="border-radius: 50%;" alt="Meer Khalil"/><br />
+        <img src="https://www.escstack.site/khalil.png" width="100px" style="border-radius: 50%; object-fit: cover;" alt="Meer Khalil"/><br />
         <b>Meer Khalil</b>
       </a><br />
       Chief AI Officer
